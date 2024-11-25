@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to related accounts QA"
   contactDetails:
-    name: "John Doe QA Lead"
+    name: "John Doe : QA Lead"
     email: "johnqa@mail.com"
   onCallSupport:
     - (021) 445-1234

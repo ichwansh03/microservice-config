@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to related loans prod API"
   contactDetails:
-    name: "Ichwan - Prod"
+    name: "Ichwan : Prod"
     email: "ichwan@mail.com"
   onCallSupport:
     - (021) 789-1013

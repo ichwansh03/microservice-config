@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to related loans local API"
   contactDetails:
-    name: "Ichwan - Developer"
+    name: "Ichwan : Developer"
     email: "ichwan.loan@mail.com"
   onCallSupport:
     - (021) 789-1011

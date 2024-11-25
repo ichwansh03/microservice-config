@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to related cards local API for QA"
   contactDetails:
-    name: "Ichwan - QA"
+    name: "Ichwan : QA"
     email: "ichwan.qa@mail.com"
   onCallSupport:
     - (021) 789-1012
